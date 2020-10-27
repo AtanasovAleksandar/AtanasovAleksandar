@@ -36,7 +36,7 @@
 ---
 
 <img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
-<img align="right" alt="text" width="auto" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
 <br />
 <br />
 
@@ -50,8 +50,8 @@
 
 <br />
 <br />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
-<img align="right" alt="text" width="auto" src="https://forthebadge.com/images/badges/it-works-why.svg" />
+<img align="left" alt="text" width="30%" height="60px" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
+<img align="left" alt="text" width="30%" height="60px" src="https://forthebadge.com/images/badges/it-works-why.svg" />
 <br />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+<img align="left" alt="text" width="30%" height="60px" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
 
