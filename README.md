@@ -8,7 +8,7 @@
 - 📫 How to reach me: aleksandaratanasov43@gmail.com
 - ⚡ Fun fact: I love to play football, play video games and running
 
-<img align="right" alt="image" width="250px" height="200px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="image" width="400px" height="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 ### Connect with me:
