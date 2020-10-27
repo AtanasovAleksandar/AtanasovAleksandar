@@ -1,9 +1,10 @@
 ### Hi there, I'm Aleksandar 👋
 
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" /> 
+[<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />]
+[<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" />]
 <br />
 <br />
+
 ### I'm a Front End engineer!!
 
 - 🌱 I’m currently learning everything 🤣
