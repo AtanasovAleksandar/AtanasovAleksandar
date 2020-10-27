@@ -44,5 +44,6 @@
 
 <br />
 <br />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/powered-by-electricity.svg" />
- https://forthebadge.com/images/badges/uses-html.svg
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/powered-by-electricity.svg" /> <img align="left" alt="text" width="auto" src=" https://forthebadge.com/images/badges/uses-html.svg
+" />
+
