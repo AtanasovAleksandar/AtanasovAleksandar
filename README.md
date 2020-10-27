@@ -15,7 +15,7 @@
 
 <br />
 <br />
-<img align="left" alt="image" width="250px" height="200px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="image" width="250px" height="200px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 ### Languages and Tools:
