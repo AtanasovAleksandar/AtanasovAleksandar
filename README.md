@@ -41,3 +41,8 @@
 
 [linkedin]: https://www.linkedin.com/in/aleksandar-atanasov-14661812a/
 [facebook]: https://www.facebook.com/aleksandar43/
+
+<br />
+<br /> 
+
+https://forthebadge.com/images/badges/powered-by-electricity.svg https://forthebadge.com/images/badges/uses-html.svg
