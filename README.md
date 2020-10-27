@@ -35,8 +35,8 @@
 
 ---
 
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
+<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
+<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
 <br />
 <br />
 
