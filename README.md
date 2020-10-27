@@ -38,7 +38,9 @@
 <img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
 <img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
 
----
+<br />
+<br />
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtanasovAleksandar)](https://github.com/anuraghazra/github-readme-stats)
 
