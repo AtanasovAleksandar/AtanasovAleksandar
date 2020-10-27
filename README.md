@@ -36,7 +36,7 @@
 ---
 
 <img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
 <br />
 <br />
 
