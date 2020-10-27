@@ -44,6 +44,8 @@
 
 <br />
 <br />
-<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/powered-by-electricity.svg" /> <img align="left" alt="text" width="auto" src=" https://forthebadge.com/images/badges/uses-html.svg
-" />
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/powered-by-electricity.svg" /> 
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/it-works-why.svg" />
+<img align="left" alt="text" width="auto" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
 
