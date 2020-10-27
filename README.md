@@ -3,9 +3,10 @@
 ## I'm a Front End engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 Ask me about anything, I am happy to help
 - 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and play football
+  📫 How to reach me: aleksandaratanasov43@gmail.com;
+- ⚡ Fun fact: I love to play football, play video games and running
 
 ### Connect with me:
 
@@ -33,6 +34,10 @@
 <br />
 
 ---
+
+🏆 {{ STARS }}
+🌸 {{ REPOSITORIES }}
+✅ {{ COMMITS }}
 
 
 [linkedin]: https://www.linkedin.com/in/aleksandar-atanasov-14661812a/
