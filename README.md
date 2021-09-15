@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Ask me about anything, I am happy to help
-- 🥅 2020 Goals: Contribute to Open Source projects
 - 📫 How to reach me: aleksandaratanasov43@gmail.com
 - ⚡ Fun fact: I love to play football, play video games and running
 
