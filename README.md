@@ -42,7 +42,7 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtanasovAleksandar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtanasovAleksandar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
