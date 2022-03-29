@@ -43,7 +43,7 @@
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtanasovAleksandar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasovAleksandar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasovAleksandar&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/aleksandar-atanasov-14661812a/
