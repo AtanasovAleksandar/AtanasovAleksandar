@@ -35,33 +35,16 @@
 
 ---
 
-<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" />
-<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
-
-<br />
-<br />
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtanasovAleksandar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasovAleksandar&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=AtanasovAleksandar&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasovAleksandar&show_icons=true&theme=radical&layout=compact&langs_count=8" />
+</a>
 
 
 [linkedin]: https://www.linkedin.com/in/aleksandar-atanasov-14661812a/
 [facebook]: https://www.facebook.com/aleksandar43/
-
-<br />
-<br />
-
-<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" />
-<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/it-works-why.svg" />
-
-<br />
-
-<img align="left" alt="text" width="30%" height="40px" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-
-<br />
-<br />
-<img align="left" alt="img" width="60px" height="60px" src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
