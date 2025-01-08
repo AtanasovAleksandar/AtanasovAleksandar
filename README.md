@@ -1,7 +1,7 @@
 ### Hi there, I'm Aleksandar 👋
 <img align="right" alt="image" width="350px" height="250px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-### I'm a Front End engineer!!
+### I'm a full stack engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Ask me about anything, I am happy to help
